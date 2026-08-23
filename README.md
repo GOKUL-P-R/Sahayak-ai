@@ -1,5 +1,5 @@
-Project Title: Sahayak-AI: Voice-First Inclusive Advisory for Underserved Communities
-Problem Statement: Problem 5 - AI for Public Good
+Project Title: Sahayak-AI: Voice-First Inclusive Advisory for Underserved Communities.    
+Problem Statement: AI for Public Good
 
 Overview:
 Millions of small-scale vendors, marginal farmers, and local artisans across India face severe hurdles in accessing critical market trends, government welfare schemes, and economic resources due to complex digital interfaces, language barriers, and low-connectivity environments. 
